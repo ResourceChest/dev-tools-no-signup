@@ -124,14 +124,6 @@ A curated list of free developer tools that work instantly -- no account creatio
 - [**Bundlephobia**](https://bundlephobia.com/) - Find the cost of adding an npm package to your bundle -- see size, download time, and composition.
 - [**npm trends**](https://npmtrends.com/) - Compare npm package download counts over time to evaluate popularity and make informed choices.
 
----|---|
-| [Chrome Privacy Extensions](https://github.com/ResourceChest/chrome-privacy-extensions) | Curated Chrome extensions for privacy and security |
-| [Custom GPTs](https://github.com/ResourceChest/custom-gpts) | Community-curated catalog of useful Custom GPTs |
-
-> Follow [ResourceChest](https://github.com/ResourceChest) for more curated resource collections.
-
----
-
 ## More from ResourceChest
 
 | Repository | Description |
