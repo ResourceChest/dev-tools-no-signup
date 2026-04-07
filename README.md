@@ -1,10 +1,10 @@
 # Awesome Dev Tools (No Signup Required)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ResourceChest/awesome-dev-tools-no-signup/blob/main/LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/ResourceChest/awesome-dev-tools-no-signup)](https://github.com/ResourceChest/awesome-dev-tools-no-signup/commits/main)
-[![Stars](https://img.shields.io/github/stars/ResourceChest/awesome-dev-tools-no-signup?style=social)](https://github.com/ResourceChest/awesome-dev-tools-no-signup/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ResourceChest/dev-tools-no-signup/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/ResourceChest/dev-tools-no-signup)](https://github.com/ResourceChest/dev-tools-no-signup/commits/main)
+[![Stars](https://img.shields.io/github/stars/ResourceChest/dev-tools-no-signup?style=social)](https://github.com/ResourceChest/dev-tools-no-signup/stargazers)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/ResourceChest/.github/blob/main/CONTRIBUTING.md)
-[![Link Check](https://github.com/ResourceChest/awesome-dev-tools-no-signup/actions/workflows/link-check.yml/badge.svg)](https://github.com/ResourceChest/awesome-dev-tools-no-signup/actions/workflows/link-check.yml)
+[![Link Check](https://github.com/ResourceChest/dev-tools-no-signup/actions/workflows/link-check.yml/badge.svg)](https://github.com/ResourceChest/dev-tools-no-signup/actions/workflows/link-check.yml)
 
 A curated list of free developer tools that work instantly -- no account creation, no signup, no login. Just open and use.
 
