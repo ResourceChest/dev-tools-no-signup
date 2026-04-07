@@ -1,4 +1,4 @@
-# Awesome Dev Tools (No Signup Required)
+# Dev Tools (No Signup Required)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ResourceChest/dev-tools-no-signup/blob/main/LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/ResourceChest/dev-tools-no-signup)](https://github.com/ResourceChest/dev-tools-no-signup/commits/main)
