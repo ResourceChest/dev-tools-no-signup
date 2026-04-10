@@ -133,6 +133,7 @@ A curated list of free developer tools that work instantly -- no account creatio
 | [AI Agents](https://github.com/ResourceChest/ai-agents) | Practical AI agents, frameworks, and tools for developers |
 | [FinOps Tools](https://github.com/ResourceChest/finops-tools) | Vendor-neutral tools for cloud cost optimization |
 | [Local-First Tools](https://github.com/ResourceChest/local-first-tools) | Local-first, offline-capable, privacy-respecting tools |
+| [AI & LLM Papers](https://github.com/ResourceChest/ai-llm-papers) | Foundational and frontier AI/LLM research papers reading list |
 
 > **[Follow ResourceChest](https://github.com/ResourceChest)** for more curated resource collections.
 
