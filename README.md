@@ -117,6 +117,7 @@ A curated list of free developer tools that work instantly -- no account creatio
 
 ## Miscellaneous
 
+- [**Telemetry SQL Playground**](https://telemetry.sh/sql/playground) - Run read-only SQL against synthetic application events in your browser using DuckDB-Wasm. The public playground is free and requires no account.
 - [**explainshell.com**](https://explainshell.com/) - Paste a shell command and get a breakdown of every argument, flag, and option with man page excerpts.
 - [**tldr pages**](https://tldr.sh/) - Simplified, community-driven man pages with practical examples for common command-line tools.
 - [**DevDocs**](https://devdocs.io/) - A unified API documentation browser with instant search across hundreds of languages, frameworks, and tools.
