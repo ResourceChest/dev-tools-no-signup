@@ -114,6 +114,7 @@ A curated list of free developer tools that work instantly -- no account creatio
 - [**MXToolbox**](https://mxtoolbox.com/) - Comprehensive DNS, email, and network diagnostic tools including MX lookup, blacklist checks, and SMTP testing.
 - [**WhatIsMyIP.com**](https://www.whatismyip.com/) - See your public IP address instantly along with geolocation, ISP details, and proxy detection.
 - [**SSL Labs**](https://www.ssllabs.com/ssltest/) - Deep analysis of any web server's SSL/TLS configuration with grading and detailed findings.
+- [**DevOmniTools IPv6 Subnet Calculator**](https://www.devomnitools.com/en/tools/ipv6-subnet-calculator/) - Calculate IPv6 CIDR network ranges, compressed and expanded addresses, and subnet boundaries directly in the browser with no signup required.
 
 ## Miscellaneous
 
