@@ -63,6 +63,7 @@ A curated list of free developer tools that work instantly -- no account creatio
 
 - [**Base64 Encode/Decode**](https://www.base64decode.org/) - Encode or decode Base64 strings and files directly in the browser.
 - [**URL Encoder/Decoder**](https://www.urlencoder.org/) - Encode or decode URLs and query strings with percent-encoding.
+- [**PercentURL URL Encoder & Decoder**](https://percenturl.com/url-encoder-online) - Encode and decode URL text or parameters in the browser, with UTF-8, batch input, and component or full-URL modes.
 - [**JWT.io**](https://jwt.io/) - Decode, verify, and inspect JSON Web Tokens. Paste a JWT to see its header, payload, and signature.
 - [**CyberChef**](https://gchq.github.io/CyberChef/) - The "cyber swiss army knife" for encoding, decoding, hashing, encryption, compression, and data analysis -- hundreds of operations in one tool.
 - [**Unix Timestamp Converter**](https://www.unixtimestamp.com/) - Convert Unix timestamps to human-readable dates and vice versa, with support for multiple formats.
