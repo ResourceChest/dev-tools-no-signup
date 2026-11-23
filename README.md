@@ -77,6 +77,7 @@ A curated list of free developer tools that work instantly -- no account creatio
 - [**gitignore.io**](https://www.toptal.com/developers/gitignore) - Generate `.gitignore` files for any combination of operating systems, IDEs, and programming languages.
 - [**Carbon**](https://carbon.now.sh/) - Create and share beautiful images of your source code with customizable themes, fonts, and window styles.
 - [**Ray.so**](https://ray.so/) - Generate elegant code screenshots with syntax highlighting, dark mode, and gradient backgrounds.
+- [**Wix–Notion Setup Studio**](https://dylan-workflows.impactlayer.workers.dev/setup-studio/studio/) - Create and download field-mapping JSON for a Wix-to-Notion reference connector in the browser, without signup. Editor only; running the separate connector requires provider accounts and setup.
 
 ## Diff & Comparison
 
