@@ -36,6 +36,7 @@ A curated list of free developer tools that work instantly -- no account creatio
 - [**jq play**](https://jqplay.org/) - An online playground for jq, the command-line JSON processor. Write and test jq filters in the browser.
 - [**JSON Crack**](https://jsoncrack.com/) - Visualize JSON data as interactive graphs and tree diagrams to understand complex structures at a glance.
 - [**JSON Path Finder**](https://jsonpathfinder.com/) - Paste JSON and click on any value to get its path, making it easy to write selectors for deeply nested data.
+- [**UTILIX JSON Formatter**](https://www.uutilix.com/en/tools/json-formatter) - Format, validate, and minify JSON locally in the browser, with English, French, and Arabic interfaces and no account required.
 
 ## Regex Tools
 
