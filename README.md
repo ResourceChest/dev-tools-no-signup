@@ -77,6 +77,7 @@ A curated list of free developer tools that work instantly -- no account creatio
 - [**gitignore.io**](https://www.toptal.com/developers/gitignore) - Generate `.gitignore` files for any combination of operating systems, IDEs, and programming languages.
 - [**Carbon**](https://carbon.now.sh/) - Create and share beautiful images of your source code with customizable themes, fonts, and window styles.
 - [**Ray.so**](https://ray.so/) - Generate elegant code screenshots with syntax highlighting, dark mode, and gradient backgrounds.
+- [**Oakready Free WhatsApp Widget**](https://www.oakready.com/whatsapp-widget) - Add a free WhatsApp chat button to your website.
 
 ## Diff & Comparison
 
